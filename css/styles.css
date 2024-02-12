@@ -4,12 +4,7 @@
     color: #434455;
  }
 
- ul {
-     list-style-type: none;
-padding-left: 0;
-margin-top: 0;
-    margin-bottom: 0;
- }
+
 
  a {
      text-decoration: none;
@@ -19,7 +14,7 @@ button{
 }
 
 .header{
-    border-bottom: 1px solid #e7e9fc;
+
     
 }
 
