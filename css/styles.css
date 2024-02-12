@@ -68,7 +68,7 @@ color:#404bbf;
     font-style: normal;
  }
  
-  .adress-menu-link {
+  .header-adress-mailto {
     color: var(--SLATE, #434455); 
     font-size: 16px;
     font-weight: 400;
@@ -79,6 +79,18 @@ color:#404bbf;
     .header-adress-mailto:focus{
 color:#404bbf;
     }
+          .header-adress-tel {
+              color: var(--SLATE, #434455);
+              font-size: 16px;
+              font-weight: 400;
+              line-height: 1.5;
+              letter-spacing: 0.02em;
+          }
+    
+          .header-adress-mailto:hover,
+          .header-adress-mailto:focus {
+              color: #404bbf;
+          }
 
 
 
